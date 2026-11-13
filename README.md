@@ -7,4 +7,5 @@ The main chalenges' ideas and sources will come from these platforms:
 - https://www.codewars.com/
 - https://pynative.com/
 - https://www.hackerrank.com/
-ANd of course challenges created with AI or by myself.
+
+And of course challenges created with AI or by myself.
